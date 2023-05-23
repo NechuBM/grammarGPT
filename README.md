@@ -1,6 +1,8 @@
 # grammarGPT: Your Ultimate Grammarly Alternative! 
 grammarGPT is a free application that harnesses the power of AI to provide suggestions, helping to improve the coherence, style and clarity of your texts. Whether you write emails, professional reports, or even social media posts. 
 
+:link: [Live demo](https://nechubm-grammargpt-srcapp-tutorial-jh5vw1.streamlit.app/)
+
 <img src="demo.gif" alt="drawing" width="700"/>
 
 ## Introduction
